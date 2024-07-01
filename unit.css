@@ -1,0 +1,14 @@
+.title{
+    text-align: center;
+}
+body {
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+div {
+    width: 600px;
+    max-height: fit-content;
+    border: 10px solid rgb(206, 44, 171);
+  }
